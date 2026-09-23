@@ -3,8 +3,7 @@
 <p align="center">
 
 
-[![Open in Google Slides](https://img.shields.io/badge/Google%20Slides-View%20Pitch%20Deck-F4B400?logo=googleslides&logoColor=white)](https://docs.google.com/presentation/d/1hVIZ5rNr0uAQx7OlgUEo-5zd3pliDiAL/edit?usp=sharing&ouid=114329543527148350067&rtpof=true&sd=true)
-
+[![Visit Website](https://img.shields.io/badge/Website-Visit%20The%20Nudge%20Café-00C7B7?logo=netlify&logoColor=white)](https://6ab357874f4ff9a8c3a0482b--tangerine-cascaron-793074.netlify.app/)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://caffeine-consumption-ml-app-cswxdgjaeyhngcyhzq9atk.streamlit.app)
 
 </p>
